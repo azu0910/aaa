@@ -109,7 +109,7 @@ p {
 /*スワイプ部分*/
 
 .main {
-overflow: hidden;
+overflow: hidden !important;
 }
 
 .swiper-container {
