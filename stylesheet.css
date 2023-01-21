@@ -109,13 +109,12 @@ p {
 /*スワイプ部分*/
 
 .swiper-container {
-  max-width: 1170px;
+  max-width: 1170px!important;
   overflow: visible;
   margin: 0 auto;
 }
 
 .swiper-slide {
-  max-width: 1170px;
   padding: 0 10px;
 }
 
