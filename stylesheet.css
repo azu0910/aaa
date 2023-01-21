@@ -58,6 +58,7 @@ p {
 
 /*ヘッダー1*/
 .header-1 {
+  max-width: 1170px;
   display: flex;
   justify-content: space-between;
   align-items: center;
