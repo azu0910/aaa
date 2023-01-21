@@ -115,6 +115,7 @@ p {
 }
 
 .swiper-slide {
+  max-width: 1170px;
   padding: 0 10px;
 }
 
