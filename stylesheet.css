@@ -1,6 +1,6 @@
 /*共通*/
 body {
-  width: 1170px;
+  max-width: 1170px;
   margin: 0 auto;
   color: #60704f;
 }
