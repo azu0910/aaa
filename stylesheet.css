@@ -133,6 +133,10 @@ overflow: hidden;
   font-size: 25px !important;
 }
 
+.swiper-horizontal {
+  bottom: initial !important;
+}
+
 .swiper-button-next {
   color: #fff !important;
   border-radius: 50px;
