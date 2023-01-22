@@ -133,7 +133,7 @@ overflow: hidden;
   font-size: 25px !important;
 }
 
-.swiper-pagination swiper-pagination-bullets swiper-pagination-horizontal {
+.swiper-horizontal {
   bottom: initial !important;
 }
 
